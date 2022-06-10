@@ -32,8 +32,8 @@
 
 ------------------
 
-github address: [bbizzu][github]
+github address: [bbizzzu][github]
 
-[github]:http://github.com/bbizzu
+[github]:http://github.com/bbizzzu
 
 
